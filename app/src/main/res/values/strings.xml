@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">News Feeds</string>
+    <string name="company_name">LINK DEVELOPMENT</string>
+    <string name="icon">icon</string>
+    <string name="welcome">Welcome</string>
+    <string name="open_website">OPEN WEBSITE</string>
+    <string name="by_author" formatted="true">By %s</string>
+    <string name="no_articles_msg">There is no articles</string>
+    <string name="error_msg">Something went wrong</string>
+    <string name="explore">Explore</string>
+    <string name="live_chat">Live Chat</string>
+    <string name="gallery">Gallery</string>
+    <string name="wishlist">Wish List</string>
+    <string name="e_magazine">E-Magazine</string>
+    <string name="check_internet_msg">Check your internet connection!</string>
+</resources>
